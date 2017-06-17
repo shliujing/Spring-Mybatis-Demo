@@ -1,0 +1,12 @@
+# General
+# IntelliJ IDEA
+.idea/*
+/.idea
+*.iml
+target
+.DS_Storecd
+.git
+.properties
+# Eclipse
+# Directories
+soa-backup
