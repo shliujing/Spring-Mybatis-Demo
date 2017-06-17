@@ -2,11 +2,15 @@
 # IntelliJ IDEA
 .idea/*
 /.idea
+/.settings
 *.iml
 target
 .DS_Storecd
 .git
+.logs
 .properties
+.classpath
+.project
 # Eclipse
 # Directories
 soa-backup
