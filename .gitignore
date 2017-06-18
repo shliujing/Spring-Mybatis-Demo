@@ -7,7 +7,7 @@
 target
 .DS_Storecd
 .git
-.logs
+/logs
 .properties
 .classpath
 .project
