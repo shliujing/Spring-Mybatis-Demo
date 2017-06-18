@@ -3,6 +3,12 @@
 1. 完美运行
 2. 结构清晰明了。
 
+## 运行示例
+
+欢迎页面：http://localhost:8080/
+页面展示：http://localhost:8080/user/showUser?id=1
+JSON：http://localhost:8080/user/test?id=1
+
 ## 参考
 
 SSM框架——详细整合教程（Spring+SpringMVC+MyBatis）：http://blog.csdn.net/gebitan505/article/details/44455235/
