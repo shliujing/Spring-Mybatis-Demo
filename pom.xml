@@ -143,6 +143,7 @@
 		</dependency>
 		<!-- log end -->
 		<!-- 映入JSON -->
+		<!--示例:ObjectMapper mapper =  ObjectMapper(); User user = mapper.readValue( File(), User.class);-->
 		<dependency>
 			<groupId>org.codehaus.jackson</groupId>
 			<artifactId>jackson-mapper-asl</artifactId>
@@ -164,8 +165,7 @@
 			<artifactId>commons-codec</artifactId>
 			<version>1.9</version>
 		</dependency>
-		
-		
+
 	</dependencies>
 	<build>
 		<finalName>org.zsl.hnust</finalName>
