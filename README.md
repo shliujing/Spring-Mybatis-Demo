@@ -5,9 +5,9 @@
 
 ## 运行示例
 
-欢迎页面：http://localhost:8080/
-页面展示：http://localhost:8080/user/showUser?id=1
-JSON：http://localhost:8080/user/test?id=1
+1. 欢迎页面：http://localhost:8080/
+2. 页面展示：http://localhost:8080/user/showUser?id=1
+3. JSON：http://localhost:8080/user/test?id=1
 
 ## 参考
 
